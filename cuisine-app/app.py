@@ -45,7 +45,7 @@ def load_data():
                     "caption": "Borscht"},
                 "info": "Kuchnia ukraińska słynie z bogactwa smaków, tradycji i świeżych składników. Jest to kuchnia, która odzwierciedla historię i kulturę Ukrainy. Charakteryzuje się dużym wykorzystaniem warzyw, ziół i mięsa, zwłaszcza wieprzowiny, drób i ryb. Popularne dania ukraińskie to m.in. pierogi, barszcz ukraiński, sałatka 'wiosenna', czy też tradycyjne placki ziemniaczane zwane deruny. Kuchnia ukraińska jest również znana z wykorzystania produktów zbożowych, takich jak kasza gryczana czy płatki owsiane. Jednym z najbardziej znanych elementów kuchni ukraińskiej jest też wykorzystanie kiszonek, takich jak kiszona kapusta czy ogórki. Kuchnia ukraińska to także bogactwo smaków i aromatów, które czynią ją niezwykle atrakcyjną dla miłośników dobrego jedzenia."
             }
-    }
+        }
     return data
 
 def app():

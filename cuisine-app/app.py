@@ -4,7 +4,6 @@ import json
 
 def load_data():
     data = {
-        {
             "american": {
                 "title": "Kuchnia Amerykańska",
                 "description": "Kuchnia amerykańska to bogactwo smaków i kulinarnych tradycji, które zyskały uznanie na całym świecie. To nie tylko fast foody i hamburgery, lecz także wyśmienite dania, które czerpią inspirację z wielu kultur. W Ameryce można znaleźć potrawy reprezentujące praktycznie każdy region świata, co sprawia, że kuchnia amerykańska jest niezwykle różnorodna i interesująca.",
